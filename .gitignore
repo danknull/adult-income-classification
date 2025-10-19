@@ -211,7 +211,10 @@ __marimo__/
 .DS_Store
 
 # Data files (typically large and not version controlled)
-data/*
+
+data\processed\*.csv
 
 # Model files (typically large and not version controlled)
 models/*
+# Virtual environment
+.venv\
