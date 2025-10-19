@@ -1,0 +1,13 @@
+Validation Metrics
+Accuracy:  0.8510
+Precision: 0.7290
+Recall:    0.6001
+F1 Score:  0.6583
+ROC AUC:   0.9053
+
+Test Metrics
+Accuracy:  0.8481
+Precision: 0.7244
+Recall:    0.5893
+F1 Score:  0.6499
+ROC AUC:   0.9013

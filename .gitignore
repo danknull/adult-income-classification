@@ -215,7 +215,6 @@ data\raw\*.csv
 data\raw\*.data
 data\raw\*.test
 data\processed\*.csv
-# Model files (typically large and not version controlled)
-models/*
+
 # Virtual environment
 .venv\
