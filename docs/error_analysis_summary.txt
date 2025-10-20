@@ -1,0 +1,15 @@
+ERROR ANALYSIS SUMMARY
+======================================================================
+
+TOP 5 PREDICTIVE FEATURES:
+  num__capital-gain: 2.2682
+  cat__native-country_South: -1.7997
+  cat__occupation_Priv-house-serv: -1.4726
+  cat__marital-status_Married-civ-spouse: 1.3149
+  cat__native-country_Columbia: -1.2932
+
+RECOMMENDED NEXT STEPS:
+1. Adjust class weights or decision threshold
+2. Engineer interaction and binned features
+3. Try Random Forest and Gradient Boosting
+4. Deep dive into high-confidence misclassifications
