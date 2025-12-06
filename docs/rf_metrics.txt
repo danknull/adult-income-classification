@@ -1,0 +1,13 @@
+Random Forest Validation Metrics
+================================
+Best Params: {'n_estimators': 100, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': None, 'class_weight': 'balanced'}
+
+Training Accuracy:   0.8609
+Validation Accuracy: 0.8323
+Generalization Gap:  0.0286
+
+Accuracy: 0.8323
+Precision: 0.6101
+Recall: 0.8283
+F1 Score: 0.7026
+ROC AUC: 0.9166
