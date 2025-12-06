@@ -22,7 +22,7 @@ PARAM_DIST = {
     'class_weight': ['balanced', 'balanced_subsample', None]
 }
 
-# CAPSTONE UPGRADE: More iterations for better tuning
+# More iterations for better tuning
 N_ITER = 30  
 CV_FOLDS = 5 # Standard academic rigor
 

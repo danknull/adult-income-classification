@@ -1,0 +1,12 @@
+XGBoost Validation Metrics
+==========================
+Best Params: {'subsample': 0.8, 'scale_pos_weight': 3, 'n_estimators': 300, 'max_depth': 5, 'learning_rate': 0.1, 'gamma': 0.5, 'colsample_bytree': 0.7}
+
+Final Estimators: 292
+Validation Loss:  0.3260
+
+Accuracy: 0.8383
+Precision: 0.6175
+Recall: 0.8511
+F1 Score: 0.7158
+ROC AUC: 0.9284
