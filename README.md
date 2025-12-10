@@ -61,7 +61,7 @@ You must manually download the dataset:
 
 ```
 
-git clone https://github.com/<YOUR_USERNAME>/adult-income-classification.git
+git clone https://github.com/danknull/adult-income-classification.git
 cd adult-income-classification
 
 ```
